@@ -416,6 +416,10 @@ footer a {
         
     }
 
+    .feature-content .img{
+        width: 50%;
+    }
+
     .see-more{
         padding-top: 25px;
         padding-bottom: 25px;
