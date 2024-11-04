@@ -400,6 +400,9 @@ footer a {
     }
 
 
+    .card{
+        max-width: 100%;
+    }
     .card-container {
         grid-template-columns: repeat(1, 1fr);
         justify-items: center;
@@ -416,8 +419,9 @@ footer a {
         
     }
 
-    .feature-content .img{
-        width: 50%;
+    .feature-content img{
+        max-width: 100%;
+       
     }
 
     .see-more{
